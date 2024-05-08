@@ -1,0 +1,3 @@
+1. HTML program to display an email link which displays subject text as its default subject.
+2. How to make web page links without impacting search engine's page rank. Write a HTML program for the same.
+3. Create a textarea with a background image for it, informing the users to enter comments.
