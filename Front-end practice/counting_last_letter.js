@@ -1,3 +1,4 @@
+//gets the element by class name
 const word = document.getElementsByClassName("letter");
 
 const counting_letters_last_word = function (word) {
