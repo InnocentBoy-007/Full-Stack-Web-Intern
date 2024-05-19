@@ -1,3 +1,4 @@
+//gets the element by id
 const letter = document.getElementById("letter");
 const button = document.getElementById("button");
 const result = document.getElementById("result");
